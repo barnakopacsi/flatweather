@@ -69,12 +69,12 @@ Check out a quick demo of **FlatWeather** in action:
 ## 🖼️ Screenshots
 
 [![Weather view in light mode](Screenshots/ss1.png)](Screenshots/ss1.png)
-[![Weather view in dark mode](ss2.png)](ss2.png)
-[![Settings menu](ss3.png)](ss3.png)
-[![Info cards](ss4.png)](ss4.png)
-[![Search view without results](ss5.png)](ss5.png)
-[![Search view with results](ss6.png)](ss6.png)
-[![Hungarian version](ss7.png)](ss7.png)
+[![Weather view in dark mode](Screenshots/ss2.png)](Screenshots/ss2.png)
+[![Settings menu](Screenshots/ss3.png)](Screenshots/ss3.png)
+[![Info cards](Screenshots/ss4.png)](Screenshots/ss4.png)
+[![Search view without results](Screenshots/ss5.png)](Screenshots/ss5.png)
+[![Search view with results](Screenshots/ss6.png)](Screenshots/ss6.png)
+[![Hungarian version](Screenshots/ss7.png)](Screenshots/ss7.png)
 
 
 
