@@ -1,0 +1,15 @@
+{
+  "originHash" : "7c90314e9c758371149b3a5886dbca23080798791dd62fe4bef92be285729b35",
+  "pins" : [
+    {
+      "identity" : "swiftuipager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fermoya/SwiftUIPager",
+      "state" : {
+        "revision" : "4ddc04c801aac143090bb14cf26603a3bf9c74cb",
+        "version" : "2.5.0"
+      }
+    }
+  ],
+  "version" : 3
+}

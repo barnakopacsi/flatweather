@@ -1,0 +1,730 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ expected tomorrow" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ várható holnap"
+          }
+        }
+      }
+    },
+    "%@, %@, %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@, %2$@, %3$@"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@, %2$@, %3$@"
+          }
+        }
+      }
+    },
+    "%lld" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        }
+      }
+    },
+    "%lld in" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld hüvelyk"
+          }
+        }
+      }
+    },
+    "%lld mi" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld mérföld"
+          }
+        }
+      }
+    },
+    "%lld%%" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld%%"
+          }
+        }
+      }
+    },
+    "%lld° %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld° %2$@"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld° %2$@"
+          }
+        }
+      }
+    },
+    "3-DAY FORECAST" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3-NAPOS ELŐREJELZÉS"
+          }
+        }
+      }
+    },
+    "Add location" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hely hozzáadása"
+          }
+        }
+      }
+    },
+    "Appearance Setting" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Megjelenés"
+          }
+        }
+      }
+    },
+    "Are you sure you want to delete this location?" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Biztos ki szeretné törölni ezt a helyet?"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vissza"
+          }
+        }
+      }
+    },
+    "Could not connect to the server. Please check your internet." : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nem lehet kapcsolódni a szervershez. Győződjön meg róla, hogy az internetkapcsolata megfelelő."
+          }
+        }
+      }
+    },
+    "Dark Mode" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sötét Mód"
+          }
+        }
+      }
+    },
+    "Delete" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Törlés"
+          }
+        }
+      }
+    },
+    "Delete Location" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hely Törlése"
+          }
+        }
+      }
+    },
+    "End" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vége"
+          }
+        }
+      }
+    },
+    "Error" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiba"
+          }
+        }
+      }
+    },
+    "Excellent" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kiváló"
+          }
+        }
+      }
+    },
+    "Extreme" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extrém"
+          }
+        }
+      }
+    },
+    "Fair" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elfogadható"
+          }
+        }
+      }
+    },
+    "Feels like %@ / H: %@ L: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Feels like %1$@ / H: %2$@ L: %3$@"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hőérzet %1$@ / Max: %2$@ Min: %3$@"
+          }
+        }
+      }
+    },
+    "Good" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jó"
+          }
+        }
+      }
+    },
+    "Gusts up to %@" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Széllökések: %@"
+          }
+        }
+      }
+    },
+    "Height" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Magasság"
+          }
+        }
+      }
+    },
+    "High" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Magas"
+          }
+        }
+      }
+    },
+    "HUMIDITY" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PÁRATARTALOM"
+          }
+        }
+      }
+    },
+    "Imperial" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Angolszász"
+          }
+        }
+      }
+    },
+    "It may be hard to see far ahead." : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A látási viszonyok nehézségeket okozhatnak."
+          }
+        }
+      }
+    },
+    "Light Mode" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Világos Mód"
+          }
+        }
+      }
+    },
+    "Limited" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Korlátozott"
+          }
+        }
+      }
+    },
+    "Low" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alacsony"
+          }
+        }
+      }
+    },
+    "Maximum number of saved locations reached. Please remove locations to add new ones." : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Helyek maximális száma elérve. Kérjük töröljön ki helyeket, hogy újat tudjon hozzáadni."
+          }
+        }
+      }
+    },
+    "Measurement Unit Setting" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mértékegység"
+          }
+        }
+      }
+    },
+    "Metric" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metrikus"
+          }
+        }
+      }
+    },
+    "Min %@ / Max %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Min %1$@ / Max %2$@"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min %1$@ / Max %2$@"
+          }
+        }
+      }
+    },
+    "Moderate" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mérsékelt"
+          }
+        }
+      }
+    },
+    "Most things are clearly visible." : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A látótávolság többnyire jó."
+          }
+        }
+      }
+    },
+    "No internet connection" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nincs internetkapcsolat"
+          }
+        }
+      }
+    },
+    "No results found" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nincs találat"
+          }
+        }
+      }
+    },
+    "Now" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Most"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "One of the locations could not be found. Please try again later." : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Az egyik helyet nem sikerült megtalálni. Kérjük, próbálja újra később."
+          }
+        }
+      }
+    },
+    "Optimal" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Megfelelő"
+          }
+        }
+      }
+    },
+    "Outdoor conditions may feel hazy." : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Homályos lehet a levegő."
+          }
+        }
+      }
+    },
+    "PRECIPITATION" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CSAPADÉK"
+          }
+        }
+      }
+    },
+    "Received unexpected data from the server." : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Váratlan adat érkezett a szerverről."
+          }
+        }
+      }
+    },
+    "Retry" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Újra"
+          }
+        }
+      }
+    },
+    "Search for a location..." : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keressen egy helyet…"
+          }
+        }
+      }
+    },
+    "Search will be available automatically when the iPhone is connected to the internet." : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A keresés automatikusan elérhető lesz, amint az iPhone csatlakozik az internethez."
+          }
+        }
+      }
+    },
+    "Something went wrong. Please try again." : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valami hiba történt. Kérjük, próbálja újra."
+          }
+        }
+      }
+    },
+    "Start" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kezdés"
+          }
+        }
+      }
+    },
+    "Start typing to search" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gépeljen a keresés megkezdéséhez"
+          }
+        }
+      }
+    },
+    "System Setting" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rendszerbeállítás"
+          }
+        }
+      }
+    },
+    "Temperature Unit Setting" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hőmérsékleti Egység"
+          }
+        }
+      }
+    },
+    "The air is very clear." : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A levegő nagyon tiszta."
+          }
+        }
+      }
+    },
+    "The air may feel dry." : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A levegő száraznak érződhet."
+          }
+        }
+      }
+    },
+    "The air may feel muggy." : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A levegő fülledtnek érződhet."
+          }
+        }
+      }
+    },
+    "The air may feel uncomfortable." : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A levegő kellemetlen lehet."
+          }
+        }
+      }
+    },
+    "The air should feel comfortable." : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A levegő kellemesnek érződik."
+          }
+        }
+      }
+    },
+    "The visibility is excellent." : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A látási viszonyok kiválóak."
+          }
+        }
+      }
+    },
+    "Today" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ma"
+          }
+        }
+      }
+    },
+    "UV INDEX" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UV INDEX"
+          }
+        }
+      }
+    },
+    "Very high" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nagyon Magas"
+          }
+        }
+      }
+    },
+    "Very High" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nagyon Magas"
+          }
+        }
+      }
+    },
+    "Very low" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nagyon alacsony"
+          }
+        }
+      }
+    },
+    "VISIBILITY" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LÁTÁSI VISZONYOK"
+          }
+        }
+      }
+    },
+    "Weather data will be available automatically when the iPhone is connected to the internet." : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Az időjárás adatok automatikusan elérhetőek lesznek, amint az iPhone csatlakozik az internethez."
+          }
+        }
+      }
+    },
+    "WIND" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SZÉL"
+          }
+        }
+      }
+    },
+    "You should be able to see a good distance." : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A látótávolság jó."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
