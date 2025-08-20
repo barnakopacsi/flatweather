@@ -1,7 +1,7 @@
 # FlatWeather 🌤️
 
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)](https://swift.org/) 
-[![iOS](https://img.shields.io/badge/iOS-17-blue.svg)](https://developer.apple.com/ios/) 
+[![iOS](https://img.shields.io/badge/iOS-blue.svg)](https://developer.apple.com/ios/) 
 [![Xcode](https://img.shields.io/badge/Xcode-15-blue.svg)](https://developer.apple.com/xcode/) 
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
