@@ -68,13 +68,26 @@ Check out a quick demo of **FlatWeather** in action:
 
 ## 🖼️ Screenshots
 
-[![Weather view in light mode](Screenshots/ss1.png)](Screenshots/ss1.png)
-[![Weather view in dark mode](Screenshots/ss2.png)](Screenshots/ss2.png)
-[![Settings menu](Screenshots/ss3.png)](Screenshots/ss3.png)
-[![Info cards](Screenshots/ss4.png)](Screenshots/ss4.png)
-[![Search view without results](Screenshots/ss5.png)](Screenshots/ss5.png)
-[![Search view with results](Screenshots/ss6.png)](Screenshots/ss6.png)
-[![Hungarian version](Screenshots/ss7.png)](Screenshots/ss7.png)
+<img src="Screenshots/ss1.png" alt="Weather view in light mode" width="400"/>
+**Figure 1:** Weather view in light mode
+
+<img src="Screenshots/ss2.png" alt="Weather view in dark mode" width="400"/>
+**Figure 2:** Weather view in dark mode
+
+<img src="Screenshots/ss3.png" alt="Settings menu" width="400"/>
+**Figure 3:** Settings menu
+
+<img src="Screenshots/ss4.png" alt="Info cards" width="400"/>
+**Figure 4:** Info cards
+
+<img src="Screenshots/ss5.png" alt="Search view without results" width="400"/>
+**Figure 5:** Search view without results
+
+<img src="Screenshots/ss6.png" alt="Search view with results" width="400"/>
+**Figure 6:** Search view with results
+
+<img src="Screenshots/ss7.png" alt="Hungarian version" width="400"/>
+**Figure 7:** Hungarian version
 
 
 
