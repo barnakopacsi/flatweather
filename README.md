@@ -68,7 +68,7 @@ Check out a quick demo of **FlatWeather** in action:
 
 ## 🖼️ Screenshots
 
-[![Weather view in light mode](ss1.png)](ss1.png)
+[![Weather view in light mode](Screenshots/ss1.png)](Screenshots/ss1.png)
 [![Weather view in dark mode](ss2.png)](ss2.png)
 [![Settings menu](ss3.png)](ss3.png)
 [![Info cards](ss4.png)](ss4.png)
